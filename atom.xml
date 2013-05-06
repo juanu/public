@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Juan A. Ugalde]]></title>
+  <link href="http://juanu.github.io/atom.xml" rel="self"/>
+  <link href="http://juanu.github.io/"/>
+  <updated>2013-04-29T18:17:37-07:00</updated>
+  <id>http://juanu.github.io/</id>
+  <author>
+    <name><![CDATA[Juan A. Ugalde]]></name>
+    <email><![CDATA[juanuu@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing and playing around]]></title>
+    <link href="http://juanu.github.io/blog/2013/04/28/first-post/"/>
+    <updated>2013-04-28T01:56:00-07:00</updated>
+    <id>http://juanu.github.io/blog/2013/04/28/first-post</id>
+    <content type="html"><![CDATA[<p>So, this is not my first attempt to make a website/blog/some presence in the web, but I think so far seems to be the one that I have developed more quickly into something useful.</p>
+
+<p>I thought about using Wordpress or a similar platform, but I always thought that was a little too much for my purposes. Then I noticed that a lot of people were using static website generators, such as <a href="http://jekyllrb.com/">Jekyll</a> (Based on Ruby) or <a href="http://hyde.github.io/">Hyde</a> (Based on Python). As I&#8217;m not expert in Ruby, I was looking into Hyde (not that I&#8217;m an expert on Python either, but I have a little more experience), but I was a little dissapointed with the lack of documentation. Then I found this: <a href="http://octopress.org/">Octopress</a>, which is a framework based on Jekyll, which already provides the necessary basic structure (HTML, CSS, Javascript) files to start with a website. I decided to give a try, so I could start building a site/blog, and learn about the details during the process.</p>
+
+<!-- more -->
+
+
+<p>Some of the reasons that made static site generators attractive were:</p>
+
+<ul>
+<li><p>&#8220;Simplicity&#8221;: I put this in quotes, because it took me a while to figure out the programs, dependencies, and things that I needed to be able to run. But, once that everything was running, it just takes a few minutes of buliding and the website is ready!</p></li>
+<li><p>More accessible: I don&#8217;t know the exact word to refer to this, but for me, is much easier to write a quick blog post using Markdown (a lightweight markup language) in a text editor, than going to Wordpress, login in, start writing, etc. I see this as a process similar to using Latex, where you are not worried about the design of the text (like in Word), but more about the content itself. Of course, I&#8217;m saying this right now, but let&#8217;s see if this translate into more writing!</p></li>
+<li><p>Learning: I think it was time to start learning some serious HTML, CSS and even Javascript!</p></li>
+</ul>
+
+
+<p>So, after a few days, the experience has been interesting, and I&#8217;ll see how this works in the future. Feel free to ask any questions or comments!</p>
+]]></content>
+  </entry>
+  
+</feed>
